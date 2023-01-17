@@ -1,2 +1,2 @@
 # PythonProjects
-Completed guided projects
+Completed guided projects on Dataquest
